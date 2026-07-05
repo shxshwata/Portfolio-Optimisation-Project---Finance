@@ -9,7 +9,7 @@ This project applies Modern Portfolio Theory (MPT) and Monte Carlo Simulation to
 - Downloaded historical stock data using Yahoo Finance
 - Calculated daily and annualized returns
 - Computed the covariance matrix for portfolio risk analysis
-- Simulated 100,000 random portfolios using Monte Carlo Simulation
+- Simulated 50,000 random portfolios using Monte Carlo Simulation
 - Identified the Maximum Sharpe Ratio and Minimum Volatility portfolios
 - Visualized the Efficient Frontier
 - Generated portfolio allocation, correlation heatmap, cumulative returns, and risk-return plots
@@ -35,7 +35,7 @@ This project applies Modern Portfolio Theory (MPT) and Monte Carlo Simulation to
 
 ## Results
 
-- Evaluated over 100,000 simulated portfolios
+- Evaluated over 50,000 simulated portfolios
 - Identified the optimal portfolio based on the highest Sharpe Ratio
 - Compared optimal and minimum-risk portfolios
 - Demonstrated the impact of diversification on portfolio performance
